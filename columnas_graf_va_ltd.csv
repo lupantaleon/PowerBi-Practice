@@ -1,0 +1,37 @@
+DATE,,, Geo,,,Fabricante,,,Producto,
+Month,Mes,,City,Ciudad,,Manufacturer,Fabricante,,Category,Categoría
+∑ MonthID,Suma de ID de mes,,District,Distrito,,ManufacturerID,ID de fabricante,,Count of Product,Conteo de productos
+MonthIndex,Índice de mes,,Eg GeoRollup,Ejemplo de GeoRollup,,MfgisVanArsdel,MfgisVanArsdel,,IsCompete,Es competencia
+MonthName,Nombre del mes,,Region,Región,,,,,IsCompeteHide,Ocultar competencia
+∑ MonthNo,Suma de número de mes,,State,Estado,,,,,isVanArsdel,Es VanArsdel
+Quarter,Trimestre,,Zip,zip,,,,,Manufacturer,Fabricante
+Rolling Period,Período móvil,,,,,,,,ManufacturerID,ID de fabricante
+Rolling Period Sort,Ordenación del período móvil,,,,,,,,Product,Producto
+Running Months,Meses acumulados,,,,,,,,ProductID,ID de producto
+Running Year,Año acumulado,,,,,,,,ProductRollup,Agrupación de productos
+RunningMonths,Meses acumulados (formato alternativo),,,,,,,,Segment,Segmento
+Σ Year,Suma de año,,Datos de ventas,,,,,,,
+YQMD,"Año, trimestre, mes y día",,% Category Compete Share,% Cuota de competencia de categoría,,,,,,
+,,,% Market Share SPLY YTD,% Cuota de mercado SPLY YTD,,,,,,
+,,,% Unit Market Share YOY Change,% Cambio anual de la cuota de mercado de unidades,,,,,,
+,,,% Units Market Share,% Cuota de mercado de unidades,,,,,,
+,,,% Units Market Share R12M,% Cuota de mercado de unidades R12M,,,,,,
+,,,% Units Market Share SPLY,% Cuota de mercado de unidades SPLY,,,,,,
+,,,% Units Market Share YTD,% Cuota de mercado de unidades YTD,,,,,,
+Sentimiento,,,Total OTHER Units YTD SPLY,Total de unidades OTROS YTD SPLY,,,,,,
+Sentiment,Sentimiento,,Total Units,Total de unidades,,,,,,
+Average of Score,Promedio de puntuación,,Total Units R12Ms,Total de unidades R12Ms,,,,,,
+Date,Fecha,,TOTAL UNITS SPLY,TOTAL DE UNIDADES SPLY,,,,,,
+DateID,ID de fecha,,Total Units YTD,Total de unidades YTD,,,,,,
+ManufacturerID,ID de fabricante,,Total Units YTD SPLY,Total de unidades YTD SPLY,,,,,,
+∑ ProductID,∑ ID de producto,,Total Units YTD Var,Variación total de unidades YTD,,,,,,
+∑ Score,∑ Puntuación,,Total Units YTD Var %,Porcentaje de variación total de unidades YTD,,,,,,
+StateID,ID de estado,,Total VanArsdel Units,Total de unidades VanArsdel,,,,,,
+,,,Total VanArsdel Units R12M,Total de unidades VanArsdel R12M,,,,,,
+,,,Total VanArsdel Units YTD,Total de unidades VanArsdel YTD,,,,,,
+,,,Total VanArsdel Units YTD SPLY,Total de unidades VanArsdel YTD SPLY,,,,,,
+,,,Σ Units,Σ Unidades,,,,,,
+,,,ProductID,ID de producto,,,,,,
+,,,Zip,Zip,,,,,,
+,,,Date,Fecha,,,,,,
+,,,revenue,ganancia,,,,,,
